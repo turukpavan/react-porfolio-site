@@ -37,7 +37,7 @@
         ]
       },
       {
-        "title": "Photography",
+        "title": "Task management",
         "startDate": "2018",
         "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
         "images": [
@@ -47,12 +47,16 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-react-original",
-            "name": "React"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
             "class": "devicon-javascript-plain",
             "name": "JavaScript"
+          },
+          {
+            "class": "devicon-react-original",
+            "name": "React.js"
           }
         ]
       },
@@ -67,53 +71,46 @@
         "url": "https://github.com",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-bootstrap-plain",
+            "name": "Bootstrap"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-react-original",
+            "name": "React.js"
           }
         ]
       }
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "ByteUprise, Nagpur",
+        "title": "React Developer Intern",
+        "years": "10.2024 - present",
         "mainTech": [
-          "Angular 8/9/10"
+          "react"
         ],
         "technologies": [
           "REST API",
-          "RxJS",
           "JavaScript",
           "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Tailwind css"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "CodeMind Technology, pune",
+        "title": "react Developer Intern",
+        "years": "02.2024 - 07.2024",
         "mainTech": [
-          "Angular 7/8"
+          "react"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
+         "REST API",
           "JavaScript",
-          "DHTMLX Gantt"
+          "Bootstrap"
         ]
       }
     ]
